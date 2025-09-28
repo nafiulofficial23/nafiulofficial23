@@ -36,8 +36,9 @@
 ---
 
 ## 🌱 Projects & Highlights  
-- **Agronochain** – Blockchain & AI-powered supply chain platform for farmers  
-- **InsureCow** – Agri-InsurTech solution with AI-driven risk analysis & computer vision  
+- **Agronochain** – Blockchain & AI-powered supply chain platform for farmers (www.agronochain.com) 
+- **InsureCow** – Agri-InsurTech solution with AI-driven risk analysis & computer vision (www.insurecow.com)
+- **Invotrack** - Digital Warehousing solution (www.invotrack.xyz)
 - **OpenAI + LLaMA experiments** – RAG-based prototypes & generative AI use cases  
 - **Portathon Winner** – Baltic Portathon 2020 with data-driven logistics solution  
 
